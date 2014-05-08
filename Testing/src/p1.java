@@ -5,6 +5,7 @@ public class p1 {
 	{
 	System.out.println("Hello this is my first project");
    System.out.println("2nd line");
+   System.out.println("3rd line");
 	}
 
 }
