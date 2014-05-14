@@ -6,6 +6,10 @@ public class p1 {
 		System.out.println("3rd line");
 
 		System.out.println("Added 4 th Line ");
+
+		for (int i = 0; i <= 20; i++) {
+			System.out.println("*");
+		}
 	}
 
 }
